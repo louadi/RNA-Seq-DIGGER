@@ -4,7 +4,9 @@ Applying DIGGER mode: network-level analysis to the RNA-seq data from The Cancer
 
 
 ## Data Sources
-The transcript expressions using RNAseq were obtained from [the Cancer Genome Atlas pan-cancer dataset](https://xenabrowser.net/datapages/). [BioMart](https://www.ensembl.org/biomart/martview) tool was used to annotate and to map genes, transcripts and proteins.
+- The transcript expressions using RNAseq were obtained from [the Cancer Genome Atlas pan-cancer dataset](https://xenabrowser.net/datapages/). 
+
+- [The BioMart](https://www.ensembl.org/biomart/martview) tool was used to annotate and to map genes, transcripts and proteins.
 
 
 ## For more Details check out DIGGER 
