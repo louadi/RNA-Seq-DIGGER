@@ -8,10 +8,10 @@ Applying DIGGER mode: network-level analysis to the RNA-seq data from The Cancer
 
 - The [BioMart](https://www.ensembl.org/biomart/martview) tool was used to annotate and to map genes, transcripts and proteins.
 
-- [BioGRID](https://thebiogrid.org/): The protein interactions dataset was used to generate the PPI.pkl file.
+- [BioGRID](https://thebiogrid.org/): The protein interactions databse was used to generate the PPI.pkl file.
 
 
-- [3did](https://3did.irbbarcelona.org/) and [DOMINE](https://3did.irbbarcelona.org/): two domains interactions datasets were used to generate the DDI.pkl file.
+- [3did](https://3did.irbbarcelona.org/) and [DOMINE](https://3did.irbbarcelona.org/): two domains interactions databse were used to generate the DDI.pkl file.
 
 
 
