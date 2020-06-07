@@ -15,13 +15,15 @@ Github Link: https://github.com/louadi/DIGGER
 
 # Dependencies
 
-This Jupyter notebook requires the following libraries:
+The notebook requires the following libraries:
 
 
 [NetworkX ](https://networkx.github.io/)
 
 
 [pandas](https://pandas.pydata.org/)
+
+
 
 ## Cite DIGGER
 
