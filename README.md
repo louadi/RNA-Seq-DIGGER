@@ -4,7 +4,7 @@ Applying DIGGER mode: network-level analysis to the RNA-seq data from The Cancer
 
 
 ## Data Sources
-The transcript expressions using RNAseq were obtained from the Cancer Genome Atlas pan-cancer dataset (https://xenabrowser.net/datapages/). [Ensembl BioMart](https://www.ensembl.org/biomart/martview) tool was used to annotate and to map genes, transcripts and proteins.
+The transcript expressions using RNAseq were obtained from [the Cancer Genome Atlas pan-cancer dataset](https://xenabrowser.net/datapages/). [BioMart](https://www.ensembl.org/biomart/martview) tool was used to annotate and to map genes, transcripts and proteins.
 
 
 ## For more Details check out DIGGER 
@@ -12,10 +12,15 @@ Web tool: https://exbio.wzw.tum.de/digger/
 
 Github Link: https://github.com/louadi/DIGGER
 
+
 # Dependencies
 
 This Jupyter notebook requires the following libraries:
+
+
 [NetworkX ](https://networkx.github.io/)
+
+
 [pandas](https://pandas.pydata.org/)
 
 ## Cite DIGGER
