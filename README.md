@@ -5,4 +5,4 @@ Applying network-level analysis to the RNA-seq data from The Cancer Genome Atlas
 
 # For more Details check out DIGGER 
 Web tool: https://exbio.wzw.tum.de/digger/
-Github Link: https://github.com/louadi/DIGGER
+
