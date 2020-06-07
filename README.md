@@ -1,6 +1,8 @@
-# RNA-Seq-analysis-using-DIGGER-
+# RNA-Seqanalysis using DIGGER
 
-Applying network-level analysis to the RNA-seq data from The Cancer Genome Atlas pan-cancer dataset. Using the structure annotation of isoforms and their expression level. DIGGER construct a condition specific PPI.
+Applying DIGGER mode: network-level analysis to the RNA-seq data from The Cancer Genome Atlas pan-cancer dataset.
+
+Using the structure annotation of isoforms and their expression level, DIGGER construct a condition specific PPI.
 
 
 ## For more Details check out DIGGER 
